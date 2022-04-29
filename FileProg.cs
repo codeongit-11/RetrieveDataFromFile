@@ -102,7 +102,7 @@ namespace RetrieveDataFromFile
                         int i;
                         for (i = 0; content[i] != ','; i++)
                             Console.Write(content[i]);
-                        Console.Write("Subject:");
+                        Console.Write(" Subject:");
                         for (i++; i < content.Length; i++)
                             Console.Write(content[i]);
 
