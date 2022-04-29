@@ -6,7 +6,7 @@ namespace RetrieveDataFromFile
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("*****Retrieve Student Data from a Text File*****");
+            Console.WriteLine("*****Retrieve Teacher Data from a Text File*****");
             FileProg.Do();
             string input;
             do
