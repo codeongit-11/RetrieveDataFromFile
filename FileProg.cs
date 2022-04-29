@@ -19,10 +19,10 @@ namespace RetrieveDataFromFile
             string filename = dir + "\\dataLine.txt";
 
             StreamWriter wrt = File.CreateText(filename);
-            wrt.WriteLine("Ruchika,ETC");
-            wrt.WriteLine("Prateek,CS");
-            wrt.WriteLine("Pragya,IT");
-            wrt.WriteLine("Nidhi,ETC");
+            wrt.WriteLine("Shreya,ETC");
+            wrt.WriteLine("Kaushik,CS");
+            wrt.WriteLine("Abhishek,IT");
+            wrt.WriteLine("Sharanya,ETC");
             wrt.WriteLine("Mayank,ETC");
             wrt.WriteLine("Pritika,CS");
             wrt.WriteLine("Kishwar,IT");
